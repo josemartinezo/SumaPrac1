@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Suma</string>
+    <string name="global.message.suma">La suma de los </string>
+</resources>
